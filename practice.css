@@ -1,0 +1,15 @@
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #ffa511;
+    font-weight: 900;
+    text-size-adjust: 55px;
+    text-decoration:red underline;
+    line-height: 1.2;
+    text-decoration: teal double palevioletred;
+ 
+}
+P{
+    line-height: 3;
+    letter-spacing: 3px;
+}
